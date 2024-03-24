@@ -1,5 +1,6 @@
-import React from 'react'
-import Sidebar from '../../components/sidebar/Sidebar';
+import React from "react";
+import Sidebar from "../../components/sidebar/Sidebar";
+import MessageContainer from "../../components/messages/MessageContainer";
 
 function Home() {
   return (
@@ -10,4 +11,4 @@ function Home() {
   );
 }
 
-export default Home
+export default Home;
